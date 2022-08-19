@@ -10,7 +10,7 @@ const Payment = () => {
   const navigate = useNavigate();
 
   const paypalOptions = {
-    clientId: 'ASa5sPF4cexoOJdb-5bfYSSbaHeLDPEh_j9l5acNHn3J5U7mFkeM6NUlcvXCgB6rF7IoUkBLOg_Hf0rL',
+    clientId: 'AebfLFKnFVPV8zafzrfmmBysVnxzhc8KViqXsNlQ22bkOa_0expW67p8lA79H-vt82ZfxCWop7hLNvzs',
     intent: 'capture',
     currency: 'USD'
   }
